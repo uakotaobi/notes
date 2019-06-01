@@ -1,11 +1,11 @@
 # notes
 Note-taking for the Git exercises on 2019-06-01
 
-	  ______________
-	 / Uche (Hi 3.0)/\
-	/_Wins_________/  \
-    \    jim too   \  /
-	 \______________\/
+        ______________
+        / Uche (Hi 3.0)/\
+        /_Wins_________/  \
+        \    jim too   \  /
+        \______________\/
 
 
 time out
