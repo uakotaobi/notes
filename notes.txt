@@ -1,0 +1,5 @@
+* GitHub Accounts
+* Download Cmder
+* Create notes.txt in =ntoes= repo
+* The basics
+  1. =git status=
