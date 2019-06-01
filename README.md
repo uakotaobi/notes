@@ -14,7 +14,7 @@ Note-taking for the Git exercises on 2019-06-01
   / /  \   /              /  \
  /_/   /  /_Wins_________/   /
  \ \  /   \    jim too   \  /
-  \_\/     \_edwin also :P_\/
+  \_\/     \_edwin also :P\/
 ```
 
 ⊂_ヽ
