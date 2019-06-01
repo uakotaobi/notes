@@ -1,5 +1,9 @@
 * GitHub Accounts
 * Download Cmder
-* Create notes.txt in =ntoes= repo
+** Checkout https://github.com/eankeen/portable-workstation for automatic portable setup with Cmder and Scoop, etc. with one command
+*** However, do not use (kind of buggy)
+* Create notes.txt in =notes= repo
 * The basics
   1. =git status=
+  2. =git log=
+  3. =git fetch=
