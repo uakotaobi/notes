@@ -3,8 +3,9 @@ Note-taking for the Git exercises on 2019-06-01
 
 	  ______________
 	 / Uche (Hi 3.0)/\
-	/_Wins_________/ /
-	\______________\/
+    /              / /
+   /_Wins_________/ /
+   \______________\/
 ⊂_ヽ
 
 ＼＼ ＿
@@ -34,3 +35,4 @@ Note-taking for the Git exercises on 2019-06-01
 `ノ )　 Lﾉ
 
 (_／
+
