@@ -10,8 +10,8 @@ Note-taking for the Git exercises on 2019-06-01
 
 ```
     __       _______________
-   / /\     / Uche (Hi 3.0)/\
-  / /  \   /              /  \
+   / /\     / Uche (Guten) /\
+  / /  \   /        (Tag) /  \
  /_/   /  /_Wins_________/   /
  \ \  /   \    jim too   \  /
   \_\/     \_edwin also :P\/
